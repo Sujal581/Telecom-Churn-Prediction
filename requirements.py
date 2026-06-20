@@ -1,10 +1,7 @@
-streamlit>=1.46.0
-pandas>=2.2.0
-numpy>=2.0.0
-plotly>=6.0.0
-scikit-learn>=1.6.0
-joblib>=1.4.0
-matplotlib>=3.10.0
-seaborn>=0.13.0
-openpyxl>=3.1.0
-streamlit-option-menu>=0.4.0
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+openpyxl
