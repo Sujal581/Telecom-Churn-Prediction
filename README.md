@@ -221,12 +221,6 @@ This project helps telecom companies:
 ## 👨‍💻 Author
 
 **Sujal**
-
-### Connect With Me
-
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
